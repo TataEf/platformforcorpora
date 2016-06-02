@@ -2,7 +2,7 @@
 <p>в этом репозитории находятся неоходимые файлы для создания корпуса электронной почты.</p>
 
 ####foruser.py
-программе на вход подаются файлы cutlocations.txt, cutnamesforbegin.txt, cutnamesformiddle.txt, cutsurnames.txt, info.txt и .txt-файл, сожержащий в названии emails и нормер c кодировкой UTF-8. Например: emails5.txt. Письма в файле должны быть разделены тегом <END>.
+программе на вход подаются файлы cutlocations.txt, cutnamesforbegin.txt, cutnamesformiddle.txt, cutsurnames.txt, info.txt и .txt-файл, сожержащий в названии emails и нормер c кодировкой UTF-8. Например: emails5.txt. Письма в файле должны быть разделены тегом \<END\>.
 
 ####encrypt.ipynb
 на вход - файл deletedwords.txt (создается в foruser.py)
